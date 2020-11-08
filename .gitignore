@@ -1,0 +1,6 @@
+# Folders
+node_modules/
+config/
+
+# Files
+public/dist
